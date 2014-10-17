@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[csv:home|Door43 (csv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-csv|d43-csv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-csv/archive/master.zip|d43-csv.zip]]
+
+**Recent Changes**
+{{changes>ns = csv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/csv|Ethnologue data]]
+
